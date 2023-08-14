@@ -1,0 +1,134 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "name": "vingth cinq",
+      "username": "thismann etienne le N*12",
+      "id": 25
+    },
+    {
+      "id": 23,
+      "name": "vingth huit",
+      "username": "thismann etienne le N*181"
+    },
+    {
+      "id": 22,
+      "name": "vingth huit",
+      "username": "thismann etienne le N*181"
+    },
+    {
+      "id": 17,
+      "name": "vingth huit",
+      "username": "thismann etienne le N*181"
+    },
+    {
+      "id": 16,
+      "name": "vingth huit",
+      "username": "thismann etienne le N*181"
+    },
+    {
+      "id": 15,
+      "name": "vingth huit",
+      "username": "thismann etienne le N*181"
+    },
+    {
+      "id": 14,
+      "name": "vingth huit",
+      "username": "thismann etienne le N*181"
+    },
+    {
+      "id": 31,
+      "name": ",,,,,,,,,, ---------- vingth huit",
+      "username": "thismann etienne le N*181"
+    },
+    {
+      "id": 32,
+      "name": "+++++++++++ ---------- vingth huit",
+      "username": "thismann etienne le N*181"
+    },
+    {
+      "id": 33,
+      "name": "+++++++++++ ---------- vingth huit",
+      "username": "thismann etienne le N*181"
+    },
+    {
+      "id": 34,
+      "name": "+++++++++++ ---------- vingth huit",
+      "username": "thismann etienne fuh le N*181"
+    },
+    {
+      "id": 35,
+      "name": "+++++++++++ ---------- vingth huit",
+      "username": "thismann 55 etienne fuh le N*181"
+    },
+    {
+      "id": 36,
+      "name": "+++++++++++ ---------- vingth huit",
+      "username": "thismann 55 etienne fuh le N*181"
+    },
+    {
+      "id": 96,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "phone": "1-770-736-8031 x56442",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "phone": "1-770-736-8031 x56442",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 29,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "phone": "1-770-736-8031 x56442",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 49,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "phone": "1-770-736-8031 x56442",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    }
+  ]
+}
